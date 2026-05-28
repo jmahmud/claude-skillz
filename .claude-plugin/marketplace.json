@@ -102,7 +102,7 @@
       "name": "development-skills",
       "source": "./",
       "description": "Random skills for various software development tasks",
-      "version": "5.7.0",
+      "version": "5.10.0",
       "category": "development",
       "keywords": ["tdd", "design", "workflow", "personality", "project-setup"],
       "skills": [
@@ -123,7 +123,9 @@
         "./typescript-backend-project-setup",
         "./separation-of-concerns",
         "./tactical-ddd",
-        "./fix-it-never-work-around-it"
+        "./fix-it-never-work-around-it",
+        "./dotnet-platform-reviewer",
+        "./pr-review"
       ]
     }
   ]
